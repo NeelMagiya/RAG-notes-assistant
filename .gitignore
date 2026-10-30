@@ -221,3 +221,4 @@ __marimo__/
 venv/
 .env
 chroma_db/
+data/*.pdf
